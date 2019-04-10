@@ -4,7 +4,7 @@
     {
         "title": "Theme Installation and Usage",
         "category": "Readme",
-        "url": "http://lijianxing.github.io//blog/readme/Readme",
+        "url": "https://lijianxing.github.io//blog/readme/Readme",
         "tags": ["Jekyll","Theme","GitHub","Installation"],
         "date": "2016-06-08 23:25:00 +0800",
         "language": "zh"
@@ -15,7 +15,7 @@
     {
         "title": "Theme Features",
         "category": "Features",
-        "url": "http://lijianxing.github.io//blog/features/Features",
+        "url": "https://lijianxing.github.io//blog/features/Features",
         "tags": ["Jekyll","Theme","GitHub","Installation"],
         "date": "2016-06-07 18:10:00 +0800",
         "language": "zh"
@@ -26,7 +26,7 @@
     {
         "title": "YAML Custom Features",
         "category": "Features",
-        "url": "http://lijianxing.github.io//blog/features/YAML-Features",
+        "url": "https://lijianxing.github.io//blog/features/YAML-Features",
         "tags": ["Jekyll","YAML","Features","Explained"],
         "date": "2016-04-06 05:40:00 +0800",
         "language": "en"
@@ -37,7 +37,7 @@
     {
         "title": "This post demonstrates post content styles",
         "category": "Features",
-        "url": "http://lijianxing.github.io//blog/features/Content",
+        "url": "https://lijianxing.github.io//blog/features/Content",
         "tags": ["Jekyll","Content","Demo"],
         "date": "2016-03-05 00:00:00 +0800",
         "language": "zh"
